@@ -1,0 +1,5 @@
+1) Think about the most suited ML algo - DONE (Random Forest for accuracy)
+2) Define features - DONE (tipologia, genere, bagno, cucina, salotto, balcone, zona)
+3) Define target - DONE (euro)
+4) Feature scaling (pg. 34 AML1920_Basic_Lecture2)
+5) Mean normalisation (pg.36 AML1920_Basic_Lecture2)
