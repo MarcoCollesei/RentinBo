@@ -1,8 +1,12 @@
-1) Think about the most suited ML algo - DONE (Random Forest for accuracy)
+1) Think about the most suited ML algo - DONE (Random Forest for accuracy, maybe DecisionTreeRegressor? pg. 13 AML1920_Adv_Lecture_1, maybe a Hard Voting Classifier? pg. 38 AML1920_Adv_Lecture_1)
 2) Define features - DONE (tipologia, genere, bagno, cucina, salotto, balcone, zona)
 3) Define target - DONE (euro)
-4) Adequate verbal features to numerical ones
+4) Adequate text features to numerical ones
 5) Feature scaling (pg. 34 AML1920_Basic_Lecture2)
 6) Mean normalisation (pg.36 AML1920_Basic_Lecture2)
-7) TVT splitting (pg. 32 AML1920_Basic_Lecture5)
-8) Implement ROC curve and AUC maybe lately? (pag. 4 ALM1920_Basic_Lecture7)
+7) TVT splitting (pg. 32 AML1920_Basic_Lecture5) or k-fold Cross-Validation (pg. 44 AML1920_Adv_Lecture_5)
+8) Look for correlations (pg. 29 AML1920_Adv_Lecture_5)
+9) Implement ROC curve and AUC maybe lately? (pag. 4 ALM1920_Basic_Lecture7)
+10) Implement bagging and/or pasting? (pg. 42 AML1920_Adv_Lecture_1)
+11) Fine tuning with Grid Search/Randomised Search maybe? (pg. 51 AML1920_Adv_Lecture_5)
+12) Evaluate the system (pg. 56 AML1920_Adv_Lecture_5)
