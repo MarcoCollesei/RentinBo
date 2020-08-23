@@ -1,4 +1,4 @@
-1) Think about the most suited ML algo - DONE (Random Forest for accuracy, maybe DecisionTreeRegressor? pg. 13 AML1920_Adv_Lecture_1, maybe a Hard Voting Classifier? pg. 38 AML1920_Adv_Lecture_1)
+1) Think about the most suited ML algo (Random Forest for accuracy, maybe DecisionTreeRegressor? pg. 13 AML1920_Adv_Lecture_1, maybe a Hard Voting Classifier? pg. 38 AML1920_Adv_Lecture_1, why not NN like MLPClassifier?)
 2) Define features - DONE (tipologia, genere, bagno, cucina, salotto, balcone, zona)
 3) Define target - DONE (euro)
 4) Adequate text features to numerical ones
@@ -11,3 +11,4 @@
 11) Fine tuning with Grid Search/Randomised Search maybe? (pg. 51 AML1920_Adv_Lecture_5)
 12) Evaluate the system (pg. 56 AML1920_Adv_Lecture_5)
 16) Add cool widgets to interact with (https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
+17) Possible pre-pruning if using a DT, also with GridSearchCV with Random Forest?
