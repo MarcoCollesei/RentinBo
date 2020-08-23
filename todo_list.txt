@@ -10,3 +10,4 @@
 10) Implement bagging and/or pasting? (pg. 42 AML1920_Adv_Lecture_1)
 11) Fine tuning with Grid Search/Randomised Search maybe? (pg. 51 AML1920_Adv_Lecture_5)
 12) Evaluate the system (pg. 56 AML1920_Adv_Lecture_5)
+16) Add cool widgets to interact with (https://ipywidgets.readthedocs.io/en/latest/examples/Using%20Interact.html)
