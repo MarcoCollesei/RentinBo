@@ -5,12 +5,12 @@ singola,M/F,Saffi,1,1,1,0,430,425-450
 singola,F,Irnerio,2,1,1,1,550,550-575
 singola,F,S.Vitale,1,1,0,1,400,400-425
 singola,M/F,S.Vitale,2,1,0,1,400,400-425
-singola,F,Saffi ,1,1,0,0,405,400-425
+singola,F,Saffi,1,1,0,0,405,400-425
 singola,M/F,San Donato,1,1,1,0,550,550-575
 singola,M/F,Marconi,1,1,0,0,450,450-475
 singola,F,San Donato,1,1,0,0,350,350-375
 singola,M,Bolognina,3,2,0,3,420,400-425
-singola,F,S.Vitale ,1,1,0,0,400,400-425
+singola,F,S.Vitale,1,1,0,0,400,400-425
 singola,M/F,San Donato,1,1,0,0,280,275-300
 singola,F,Irnerio,1,1,1,0,420,400-425
 singola,M/F,San Donato,1,1,0,0,350,350-375
@@ -66,7 +66,7 @@ singola,F,Costa Saragozza,1,1,0,0,450,450-475
 singola,M/F,Bolognina,2,1,0,2,400,400-425
 singola,M/F,Bolognina,1,1,0,0,500,500-525
 singola,F,S.Viola,1,1,0,0,300,300-325
-singola,M/F,Costa Sareagozza,1,1,1,1,350,350-375
+singola,M/F,Costa Saragozza,1,1,1,1,350,350-375
 singola,F,Mazzini,1,1,0,1,410,400-425
 singola,M/F,Lame,1,1,0,0,350,350-375
 singola,F,Irnerio,1,1,0,0,420,400-425
