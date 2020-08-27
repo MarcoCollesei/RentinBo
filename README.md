@@ -1,2 +1,2 @@
-In case .ipynb files are not rendered correctly just copypaste their link to:
+In case .ipynb files are not rendered correctly just copy-paste their link to:
 https://nbviewer.jupyter.org/
