@@ -1,0 +1,201 @@
+,tipologia,genere,zona,bagno,cucina,salotto,balcone,range euro
+0,singola,F,Mazzini,1,1,0,1,400-425
+1,singola,F,Irnerio,2,1,1,1,550-575
+2,singola,F,Saffi,1,1,0,0,400-425
+3,singola,M/F,S.Vitale,1,1,0,0,550-575
+4,singola,M/F,Marconi,1,1,0,1,375-400
+5,doppia,M/F,Galvani,1,1,0,0,225-250
+6,singola,F,Marconi,2,1,1,1,450-475
+7,doppia,M/F,Irnerio,1,1,1,1,250-275
+8,singola,M/F,Irnerio,1,1,0,0,400-425
+9,doppia,M/F,Marconi,1,1,1,0,250-275
+10,singola,M/F,Marconi,1,1,0,0,450-475
+11,doppia,F,Murri,1,1,0,1,250-275
+12,singola,M/F,San Donato,1,1,0,0,350-375
+13,doppia,F,Irnerio,2,1,0,0,200-225
+14,singola,F,Irnerio,1,1,0,0,400-425
+15,doppia,M,Marconi,1,1,0,0,350-375
+16,doppia,F,Mazzini,1,1,1,0,250-275
+17,singola,M/F,Saffi,1,1,1,1,400-425
+18,doppia,M,Marconi,1,1,0,0,200-225
+19,singola,F,Saffi,1,1,0,0,400-425
+20,singola,F,Marconi,1,1,0,0,325-350
+21,singola,M/F,S.Vitale,1,1,0,0,400-425
+22,singola,M/F,San Donato,1,1,1,1,375-400
+23,singola,F,Corticella,1,1,0,1,375-400
+24,doppia,M/F,Colli,1,1,0,0,300-325
+25,doppia,F,Mazzini,1,1,0,1,275-300
+26,singola,F,Mazzini,1,1,0,1,250-275
+27,doppia,M/F,Irnerio,2,1,1,0,350-375
+28,doppia,M/F,Bolognina,1,1,0,1,350-375
+29,doppia,M/F,Bolognina,1,1,1,1,225-250
+30,doppia,F,S.Vitale,1,1,0,0,325-350
+31,singola,M/F,Mazzini,1,1,0,0,375-400
+32,doppia,F,Marconi,2,1,1,0,225-250
+33,singola,M/F,S.Ruffillo,1,1,0,0,500-525
+34,singola,M/F,Mazzini,2,1,0,0,450-475
+35,doppia,M,Barca,1,1,1,0,225-250
+36,doppia,M/F,S.Viola,1,1,1,0,250-275
+37,doppia,M/F,Bolognina,1,1,1,0,250-275
+38,doppia,F,Mazzini,1,1,1,1,225-250
+39,singola,F,Colli,1,1,1,0,350-375
+40,singola,F,Corticella,1,1,0,1,325-350
+41,singola,M/F,San Donato,1,1,0,3,400-425
+42,doppia,F,San Donato,1,1,1,1,200-225
+43,doppia,M/F,Bolognina,1,1,1,0,250-275
+44,singola,M/F,S.Ruffillo,1,1,0,0,325-350
+45,singola,M/F,Costa Saragozza,1,1,1,1,350-375
+46,singola,M/F,S.Vitale,1,1,0,0,300-325
+47,doppia,M/F,Bolognina,2,1,1,1,225-250
+48,singola,M/F,Corticella,1,1,0,0,350-375
+49,singola,M/F,San Donato,1,1,0,0,500-525
+50,singola,F,Marconi,1,1,0,0,300-325
+51,doppia,M/F,Marconi,1,1,1,1,225-250
+52,singola,F,S.Vitale,1,1,0,0,450-475
+53,doppia,M/F,Irnerio,2,1,0,0,275-300
+54,doppia,F,S.Vitale,1,1,0,1,250-275
+55,singola,M,San Donato,1,1,0,1,450-475
+56,singola,M/F,San Donato,1,1,0,0,275-300
+57,singola,M/F,Murri,1,1,1,1,425-450
+58,singola,M/F,Murri,1,1,1,0,400-425
+59,doppia,F,San Donato,2,1,0,1,250-275
+60,doppia,M,Marconi,1,1,1,1,300-325
+61,doppia,F,San Donato,1,1,0,1,200-225
+62,singola,F,Bolognina,1,1,0,0,425-450
+63,doppia,M/F,Marconi,1,1,0,0,225-250
+64,doppia,F,Marconi,1,1,1,0,250-275
+65,singola,M/F,Lame,1,1,0,0,350-375
+66,doppia,M/F,Lame,1,1,0,0,275-300
+67,doppia,M,Mazzini,1,1,0,1,250-275
+68,singola,F,Irnerio,1,1,0,1,500-525
+69,doppia,M/F,Murri,1,1,1,1,250-275
+70,doppia,M/F,Malpighi,1,1,0,0,250-275
+71,doppia,M/F,Bolognina,1,1,0,1,200-225
+72,doppia,M/F,San Donato,2,1,1,0,250-275
+73,singola,M/F,Saffi,1,1,0,1,350-375
+74,singola,M/F,Murri,1,1,0,0,525-550
+75,doppia,M/F,Irnerio,1,1,0,0,250-275
+76,doppia,M/F,Saffi,1,1,0,1,250-275
+77,singola,F,San Donato,1,1,0,0,350-375
+78,doppia,F,Marconi,2,1,1,0,275-300
+79,singola,F,Murri,1,1,1,0,325-350
+80,singola,F,S.Vitale,1,1,0,0,400-425
+81,doppia,F,Lame,1,1,0,1,200-225
+82,doppia,F,Mazzini,2,1,1,0,300-325
+83,singola,F,San Donato,1,1,0,0,325-350
+84,singola,M,San Donato,1,1,0,1,350-375
+85,singola,F,Costa Saragozza,1,1,1,1,400-425
+86,singola,F,Costa Saragozza,1,1,0,0,450-475
+87,doppia,F,Malpighi,1,1,0,0,350-375
+88,singola,M/F,Mazzini,1,1,0,1,350-375
+89,doppia,F,Galvani,1,1,1,0,250-275
+90,singola,F,Malpighi,1,1,1,0,300-325
+91,doppia,F,Irnerio,2,1,1,0,225-250
+92,singola,M/F,Irnerio,2,1,0,0,450-475
+93,singola,F,Bolognina,1,1,1,1,300-325
+94,singola,M/F,Bolognina,1,1,0,0,500-525
+95,doppia,M/F,Irnerio,1,1,1,0,300-325
+96,singola,M/F,Murri,1,1,0,0,300-325
+97,doppia,M,Costa Saragozza,2,1,0,1,250-275
+98,doppia,M/F,Costa Saragozza,1,1,0,1,350-375
+99,doppia,M,Irnerio,1,1,0,0,200-225
+100,doppia,M/F,Irnerio,1,1,0,0,350-375
+101,doppia,M/F,Irnerio,1,1,0,0,225-250
+102,doppia,M/F,Irnerio,1,1,1,1,350-375
+103,doppia,F,Mazzini,2,1,0,1,200-225
+104,singola,F,Bolognina,1,1,0,0,400-425
+105,singola,F,Saffi,1,1,0,0,400-425
+106,doppia,M/F,Mazzini,1,1,0,0,250-275
+107,doppia,F,Saffi,1,1,1,1,300-325
+108,singola,F,Malpighi,1,1,0,0,400-425
+109,doppia,F,Murri,1,1,1,2,225-250
+110,doppia,M,Irnerio,1,1,0,0,250-275
+111,singola,M/F,Murri,1,1,1,0,350-375
+112,doppia,F,Murri,1,1,0,1,300-325
+113,doppia,M/F,Galvani,2,1,1,0,250-275
+114,doppia,M,Saffi,1,1,0,1,225-250
+115,singola,F,San Donato,1,1,1,0,300-325
+116,doppia,M/F,Mazzini,1,1,0,1,200-225
+117,doppia,M,Bolognina,1,2,0,0,175-200
+118,singola,M/F,Costa Saragozza,1,1,0,0,450-475
+119,singola,M/F,Saffi,1,1,0,0,500-525
+120,doppia,M/F,Malpighi,1,1,0,0,275-300
+121,doppia,M,Mazzini,1,1,1,1,275-300
+122,singola,M/F,Corticella,1,1,0,0,350-375
+123,doppia,F,Marconi,1,1,0,0,200-225
+124,singola,M/F,Bolognina,2,1,0,2,400-425
+125,doppia,M/F,Irnerio,1,1,0,0,250-275
+126,doppia,M,Lame,1,1,1,1,325-350
+127,singola,M/F,Marconi,1,1,0,0,450-475
+128,doppia,F,Bolognina,1,1,0,0,225-250
+129,singola,F,Murri,1,1,0,0,325-350
+130,doppia,M/F,San Donato,1,1,0,0,325-350
+131,singola,M/F,San Donato,1,1,1,0,550-575
+132,doppia,F,Murri,2,1,0,0,200-225
+133,singola,F,Murri,1,1,0,0,250-275
+134,doppia,F,Galvani,1,1,0,0,300-325
+135,singola,F,Marconi,2,1,0,0,350-375
+136,singola,M/F,Lame,1,1,0,0,325-350
+137,doppia,F,Malpighi,1,1,1,0,350-375
+138,doppia,M/F,San Donato,1,1,1,1,275-300
+139,doppia,F,Costa Saragozza,1,1,0,0,300-325
+140,doppia,M/F,Malpighi,2,1,1,0,250-275
+141,doppia,M/F,San Donato,1,1,1,0,275-300
+142,singola,M/F,Mazzini,1,1,0,1,375-400
+143,singola,M/F,S.Vitale,2,1,0,1,400-425
+144,singola,F,Irnerio,1,1,0,0,450-475
+145,singola,M/F,Bolognina,1,1,1,1,375-400
+146,singola,F,S.Viola,1,1,0,0,300-325
+147,singola,F,Irnerio,1,1,1,0,400-425
+148,doppia,M/F,Bolognina,1,1,0,2,225-250
+149,doppia,F,Costa Saragozza,1,1,0,0,250-275
+150,singola,M/F,S.Ruffillo,1,1,0,0,325-350
+151,doppia,M/F,Costa Saragozza,1,1,0,1,350-375
+152,singola,M/F,Lame,1,1,0,1,300-325
+153,doppia,M,Bolognina,1,1,1,0,225-250
+154,singola,M/F,Irnerio,1,1,0,0,300-325
+155,singola,F,Saffi,1,1,1,0,450-475
+156,singola,M/F,Marconi,1,1,1,0,450-475
+157,doppia,M/F,Mazzini,1,1,0,0,300-325
+158,singola,F,Lame,1,1,0,0,425-450
+159,singola,M/F,Costa Saragozza,1,1,0,0,450-475
+160,doppia,M,Lame,2,2,0,1,175-200
+161,doppia,F,Irnerio,2,1,0,1,250-275
+162,doppia,M,Saffi,1,1,0,0,200-225
+163,singola,M,Bolognina,3,2,0,3,400-425
+164,doppia,M/F,Malpighi,1,1,1,1,175-200
+165,singola,M,Malpighi,2,1,1,0,250-275
+166,singola,F,San Donato,1,1,0,1,450-475
+167,singola,M/F,Saffi,1,1,1,0,425-450
+168,doppia,M/F,Murri,1,1,1,0,325-350
+169,doppia,M,San Donato,1,1,0,2,275-300
+170,doppia,M/F,San Donato,1,1,1,2,325-350
+171,singola,M/F,Marconi,1,1,0,0,400-425
+172,doppia,F,Mazzini,2,1,0,1,300-325
+173,singola,M/F,San Donato,1,1,1,0,450-475
+174,doppia,M/F,San Donato,1,1,0,0,225-250
+175,doppia,F,Saffi,1,1,1,0,225-250
+176,singola,F,Irnerio,2,1,0,1,375-400
+177,doppia,M/F,Costa Saragozza,1,1,0,0,300-325
+178,doppia,M/F,Costa Saragozza,1,1,0,1,300-325
+179,singola,M/F,S.Vitale,2,1,0,1,400-425
+180,doppia,F,Marconi,1,1,0,0,275-300
+181,singola,F,S.Vitale,1,1,0,1,400-425
+182,singola,M/F,Barca,1,1,0,0,350-375
+183,doppia,M/F,Costa Saragozza,2,1,1,1,225-250
+184,singola,M/F,Borgo Panigale,1,1,0,1,350-375
+185,singola,F,Galvani,1,1,0,1,500-525
+186,singola,M/F,Murri,1,1,0,1,400-425
+187,singola,M/F,Galvani,2,1,0,0,650-675
+188,singola,M/F,San Donato,1,1,0,0,450-475
+189,doppia,M/F,Bolognina,1,1,0,0,225-250
+190,singola,M/F,Saffi,1,1,0,1,250-275
+191,doppia,F,Murri,1,1,0,1,275-300
+192,singola,M/F,Bolognina,2,1,0,1,350-375
+193,doppia,M/F,Costa Saragozza,1,1,0,0,225-250
+194,doppia,M/F,S.Vitale,1,1,0,0,250-275
+195,singola,F,Murri,1,1,0,0,275-300
+196,doppia,M/F,San Donato,1,1,1,1,375-400
+197,singola,M/F,Costa Saragozza,2,1,0,1,400-425
+198,singola,M/F,S.Vitale,2,1,0,0,400-425
+199,doppia,M,Bolognina,1,1,1,1,325-350
