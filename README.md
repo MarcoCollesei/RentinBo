@@ -1,4 +1,4 @@
-# RentinBO
+# RentinBo
 
 ## 1. Introduction
 
@@ -21,6 +21,17 @@ I selected few main features on the base of which lately I have trained the algo
   - Reporting the exact location of a room would have been inefficient without a precise system of coordinates and a metric, hence I opted for dividing the city according to the zones defined below (see references for the list).
   
   ![Zone di Bologna](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Mappa_zone.png)
+  
+- Bathroom/kitchen/living room/terrace
+  - The number of spaces in the house influences the rent prices too.
+  
+Whit these considerations I have created the dataset and started working on it.
 
 ## 2. Structure
+
+The project is subdivided in 3 main scripts edited in Jupyter Notebook.
+
+## 1_Data_preparation
+
+
 ## 3. References
