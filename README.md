@@ -19,6 +19,7 @@ I selected few main features on the base of which lately I have trained the algo
 
 - Position
   - Reporting the exact location of a room would have been inefficient without a precise system of coordinates and a metric, hence I opted for dividing the city according to the zones defined below (see references for the list).
+  
   ![Zone di Bologna](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Mappa_zone.png)
 
 ## 2. Structure
