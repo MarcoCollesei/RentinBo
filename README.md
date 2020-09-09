@@ -55,12 +55,24 @@ le.fit_transform(['175-200', '200-225', '225-250', '250-275', '275-300', '300-32
                   '375-400', '400-425', '425-450', '450-475', '475-500', '500-525', '525-550', '550-575', 
                  '575-600', '600-625', '625-650', '650-675', '675-700'])
  ```
+ array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16,
+       17, 18, 19, 20])
 
 Meanwhile I have looked for possible internal correlations, and indeed there weren't any relevant ones.
 
 ![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b.png)
 
-Having said that I have trained a Random Forest Classifier capable to handle large datasets and, in principle, to gain high accuracies wthout much tuning thanks also to bootstrapping. 
+Having said that I have trained a Random Forest Classifier capable to handle large datasets and, in principle, to gain high accuracies wthout much tuning thanks also to bootstrapping.
+After splitting the data into train and test sets I've launched the algorithm and ended up with a very low accuracy.
+
+```python3
+clf_accuracy = clf.score(X_test, Y_test)
+print("Accuracy: %.3f%%" % (clf_accuracy*100.0))
+```
+Accuracy: 42.308%
+
+
+
 ## 3. References
 
 
