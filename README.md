@@ -33,5 +33,14 @@ The project is subdivided in 3 main scripts edited in Jupyter Notebook.
 
 ## 1_Data_preparation
 
+In the first part I have inspected the dataset and this is how it presents, with all its features target values.
+
+![Dataset](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Dataframe.png)
 
 ## 3. References
+
+
+
+
+
+
