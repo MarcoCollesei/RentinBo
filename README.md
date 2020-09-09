@@ -63,7 +63,7 @@ Meanwhile I have looked for possible internal correlations, and indeed there wer
 ![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b.png)
 
 Having said that I have trained a Random Forest Classifier capable to handle large datasets and, in principle, to gain high accuracies wthout much tuning thanks also to bootstrapping.
-After splitting the data into train and test sets I've launched the algorithm and ended up with a very low accuracy.
+After splitting the data into train and test sets I have launched the algorithm and ended up with a very low accuracy.
 
 ```python3
 clf_accuracy = clf.score(X_test, Y_test)
