@@ -99,9 +99,11 @@ With this function one can:
 * If the prediction is wrong choose the right prices for that specific room
 * Store the new features and the new target into arrays that later can be add to the old dataset: in order to train the algorithm on more true data
 
-The following is just an example of what can be achieved with interactive features (note that the rent price is given back in real time, varying with selected features).
+The following is just a snapshot of what can be achieved with interactive features (note that the rent price is given back in real time, varying with selected features).
 
-![Playground](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Playground_c.png)
+![Playground](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Playground_c.png
+
+The underlying idea is that by adding more and more real data the algorithm can learn better, infact there where many (probably too many) possible combinations of features that hardly occurred in the dataset, this is mainly due to the 18 zones in which Bologna is subdivided.
 
 ## 3. References
 
