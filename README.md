@@ -33,7 +33,7 @@ The project is subdivided in 3 main scripts edited in Jupyter Notebook.
 
 ### Data_preparation.ipynb
 
-In the first part I have inspected the dataset and this is how it presents, with all its features target values.
+In the first part I have inspected the dataset and this is how it presents, with all its features and target values.
 
 ![Dataset](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Dataframe.png)
 
