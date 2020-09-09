@@ -89,7 +89,7 @@ Results were still mediocre so I managed to work out a different solution, colle
 
 ### Playground.ipynb
 
-Instead of spending time browsing for new data to add to the old ones I have created an interactive function with widgets.
+Instead of spending time browsing for new data to add to the old ones, I have created an interactive function with widgets.
 **(I strongly suggest to appreciate the interactivity to copy locally the repository and open it in Jupyter Notebook)**
 
 With this function one can:
