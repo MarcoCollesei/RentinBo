@@ -80,6 +80,29 @@ I have chosen then to compare as many as possible classification algorithms, wit
 
 ![Accuracies](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Accuracies.png)
 
+Still I was not satisfied and I decided to use a scaler on data.
+
+```python3
+from sklearn.preprocessing import StandardScaler, scale
+```
+Results were still mediocre so I managed to work out a different solution, collecting new data.
+
+### 3_Playground.ipynb
+
+Instead of spending time browsing for new data to add to the old ones I have created an interactive function with widgets.
+**(I strongly suggest to appreciate the interactivity to copy locally the repository and open it in Jupyter Notebook)**
+
+With this function one can:
+* Select the features that might be obtained from real ads on renting sites
+* Ask the algorithm which rent price would be appropriate, based on the old dataset
+* Decide wether the prediction correspons to the real price found in the real ad
+* If the prediction is wrong choose the right prices for that specific room
+* Store the new features and the new target into arrays that later can be add to the old dataset: in order to train the algorithm on more true data
+
+The following is just an example of what can be achieved with interactive features (note that the rent price is given back in real time, varying with selected features).
+
+![Playground](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Playground_c.png)
+
 ## 3. References
 
 
