@@ -49,9 +49,18 @@ After other few statistical considerations I took a step further towards the tra
 From the moment that the dataframe was made by labels and values I had to find a way to uniform the dataset to one type. 
 I used then a dummy encoder for type, gender and position, which indeed expanded the dataframe a lot, and a label encoder for the rent classes of prices since they were ordered. If I had used the label encoder with non-numerical features I might have introduced some bias in case the algorithm had used a metric to evaluate distances among features; this is why I have taken as a good compromise the one hot encoding even though it introduced more data.
 
+```python3 
+le = preprocessing.LabelEncoder()
+le.fit_transform(['175-200', '200-225', '225-250', '250-275', '275-300', '300-325', '325-350', '350-375',
+                  '375-400', '400-425', '425-450', '450-475', '475-500', '500-525', '525-550', '550-575', 
+                 '575-600', '600-625', '625-650', '650-675', '675-700'])
+ ```
+
 Meanwhile I have looked for possible internal correlations, and indeed there weren't any relevant ones.
 
 ![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b.png)
+
+Having said that I have trained a Random Forest Classifier capable to handle large datasets and, in principle, to gain high accuracies wthout much tuning thanks also to bootstrapping. 
 ## 3. References
 
 
