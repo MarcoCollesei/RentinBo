@@ -76,7 +76,7 @@ To have a more clear idea of what had not performed as expected I have plotted t
 ![Confusion](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Confusion_matrix.png)
 
 I have decided to search for optimal hyperparameters with RandomizedSearchCV and GridSearchCV but none was able to make the Random Forest model perform better.
-I have chosen then to compare as many as possible classification algorithms, without touching their default parameters too much, to see if there was a prommising one. It turned out Naive Bayes classifiers were more suited for my dataframe.
+I have chosen then to compare as many as possible classification algorithms, without touching their default parameters too much, to see if there was a promising one. It turned out Naive Bayes classifiers were more suited for my dataframe.
 
 ![Accuracies](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Accuracies.png)
 
