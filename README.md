@@ -71,7 +71,9 @@ print("Accuracy: %.3f%%" % (clf_accuracy*100.0))
 ```
 Accuracy: 42.308%
 
+To have a more clear idea of what had not performed as expected I have plotted the confusion matrix, which explained better than words that many targets were misclassified.
 
+![Confusion](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Confusion_matrix.png)
 
 ## 3. References
 
