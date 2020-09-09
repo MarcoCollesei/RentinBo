@@ -38,7 +38,7 @@ In the first part I have inspected the dataset and this is how it presents, with
 ![Dataset](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Dataframe.png)
 
 The very first idea was to use a regression model to predict the rent values but, since prices can depend on other factors that are not easy to categorise, I opted for working with classes instead of exact values.
-The next step has been considering the datatypes contained in the dataframe, infact there were labels anche integral values.
+The next step has been considering the datatypes contained in the dataframe, infact there were labels and integral values.
 
 ![dtype](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Types.png)
 
