@@ -31,7 +31,7 @@ Whit these considerations I have created the dataset and started working on it.
 
 The project is subdivided in 3 main scripts edited in Jupyter Notebook.
 
-## 1_Data_preparation
+### 1_Data_preparation.ipynb
 
 In the first part I have inspected the dataset and this is how it presents, with all its features target values.
 
@@ -42,10 +42,16 @@ The next step has been considering the datatypes contained in the dataframe, inf
 
 ![dtype](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Types.png)
 
-After other few statistical considerations I have looked for possible internal correlations, and indeed there weren't any relevant ones.
+After other few statistical considerations I took a step further towards the training algorithm.
+
+### 2_RentinBo.ipynb
+
+From the moment that the dataframe was made by labels and values I had to find a way to uniform the dataset to one type. 
+I used then a dummy encoder for type, gender and position, which indeed expanded the dataframe a lot, and a label encoder for the rent classes of prices since they were ordered. If I had used the label encoder with non-numerical features I might have introduced some bias in case the algorithm had used a metric to evaluate distances among features; this is why I have taken as a good compromise the one hot encoding even though it introduced more data.
+
+Meanwhile I have looked for possible internal correlations, and indeed there weren't any relevant ones.
 
 ![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b.png)
-
 ## 3. References
 
 
