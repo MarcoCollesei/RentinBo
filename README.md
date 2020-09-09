@@ -44,7 +44,7 @@ The next step has been considering the datatypes contained in the dataframe, inf
 
 After other few statistical considerations I have looked for possible internal correlations, and indeed there weren't any relevant ones.
 
-![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b).png
+![Correlation_a](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_a.png) ![Correlation_b](https://github.com/MarcoCollesei/RentinBo/blob/master/Mixed/Correlation_matrix_b.png)
 
 ## 3. References
 
