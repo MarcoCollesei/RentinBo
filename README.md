@@ -31,7 +31,7 @@ Whit these considerations I have created the dataset and started working on it.
 
 The project is subdivided in 3 main scripts edited in Jupyter Notebook.
 
-### 1_Data_preparation.ipynb
+### Data_preparation.ipynb
 
 In the first part I have inspected the dataset and this is how it presents, with all its features target values.
 
@@ -44,7 +44,7 @@ The next step has been considering the datatypes contained in the dataframe, inf
 
 After other few statistical considerations I took a step further towards the training algorithm.
 
-### 2_RentinBo.ipynb
+### RentinBo.ipynb
 
 From the moment that the dataframe was made by labels and values I had to find a way to uniform the dataset to one type. 
 I used then a dummy encoder for type, gender and position, which indeed expanded the dataframe a lot, and a label encoder for the rent classes of prices since they were ordered. If I had used the label encoder with non-numerical features I might have introduced some bias in case the algorithm had used a metric to evaluate distances among features; this is why I have taken as a good compromise the one hot encoding even though it introduced more data.
@@ -87,7 +87,7 @@ from sklearn.preprocessing import StandardScaler, scale
 ```
 Results were still mediocre so I managed to work out a different solution, collecting new data.
 
-### 3_Playground.ipynb
+### Playground.ipynb
 
 Instead of spending time browsing for new data to add to the old ones I have created an interactive function with widgets.
 **(I strongly suggest to appreciate the interactivity to copy locally the repository and open it in Jupyter Notebook)**
@@ -105,7 +105,16 @@ The following is just a snapshot of what can be achieved with interactive featur
 
 The underlying idea is that by adding more and more real data the algorithm can learn better, infact there where many (probably too many) possible combinations of features that hardly occurred in the dataset, this is mainly due to the 18 zones in which Bologna is subdivided.
 
-## 3. References
+## 3. Conclusions
+
+In conclusion developing this project I have faced the many phases of building a dataset, training a Machine Learning algorithm and dealing with issues that can occur applying a classification model.
+The intention behind this project was to come up with a realistic model of the housing situation in Bologna, but the workflow and the structure itself could be applied also to HEP related problems.
+
+## 4. References
+
+http://inumeridibolognametropolitana.it/basi-territoriali-del-comune-di-bologna
+
+https://scikit-learn.org/stable/#
 
 
 
