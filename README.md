@@ -8,7 +8,7 @@ https://nbviewer.jupyter.org/.
 The RentinBo project I here present is intended to be a demostration of the workflow behind the application of a Machine Learning algorithm.
 The scope of this project is to train a classification algorithm, with real data from current housing situation in Bologna, to predict the possible range of euros that can be asked to rent a single or double room in Bologna.
 In order to work with a true dataset I have personally collected ads for rooms during August 2020, surfing the website "Subito.it".
-The only criterium to select ads has been to collect the same amount of informatios for single and double rooms, namely 100 and 100.
+The only criterium to select ads has been to collect the same amount of informations for single and double rooms, namely 100 and 100.
 I selected few main features on the base of which lately I have trained the algorithm.
 
 - Type
